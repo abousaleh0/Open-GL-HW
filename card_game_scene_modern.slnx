@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="card_game_scene_modern/card_game_scene_modern.vcxproj" Id="7398672d-83c4-46b8-99de-68b359a1ee5b" />
+</Solution>
